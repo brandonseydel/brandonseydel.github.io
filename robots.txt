@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /*.json
 
 # Sitemap files
-Sitemap: https://greyandcosalon.com/sitemap.xml
+Sitemap: https://wwwgreyandcosalon.com/sitemap.xml
