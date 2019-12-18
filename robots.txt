@@ -1,2 +1,5 @@
 User-agent: *
 Disallow: /*.json
+
+# Sitemap files
+Sitemap: https://greyandcosalon.com/sitemap.xml
